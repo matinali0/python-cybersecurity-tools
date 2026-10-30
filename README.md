@@ -22,4 +22,4 @@ Encodes and decodes messages with a classic letter shift. Pick encode or decode,
 - File encryptor
 
 ## About me
-15, based in Azerbaijan, learning Python with cybersecurity as the end goal. Small tools now, bigger ones once I actually know what I'm doing.
+Based in Azerbaijan, learning Python with cybersecurity as the end goal. Small tools now, bigger ones once I actually know what I'm doing.
